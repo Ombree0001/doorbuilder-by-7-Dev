@@ -2,7 +2,7 @@
 
 [Voir la vidéo](https://www.youtube.com/watch?v=OJDkLxzwaGg&t=56s)
 -
-[Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
+[Clique ici pour rejoindre le Discord](https://discord.gg/fivemfrance)
 -
 
 ## ↓ Reworked, ESX (Original) version here ↓
